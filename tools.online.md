@@ -1,5 +1,7 @@
 # List of Online-Tools I use during my day job or homelab nights
 
+## not IT relevant
+ - DeepL Translator (https://www.deepl.com/translator)
 ## DNS & Mailserver
  - NAST Predelegation Check (https://nast.denic.de/)
  - Microsoft Mail-Header Analyzer (https://mha.azurewebsites.net/)

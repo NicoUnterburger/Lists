@@ -4,7 +4,8 @@ collection of things needed when a device dies or i lose my mind
 - URLs, tutorials, tips and more
   - News ([links.news.md](./links.news.md))
   - Tips for Windows Clients ([links.winClients.md](./links.winClients.md))
-  - Tips for Windows Server and Active Directory
+  - Tips for Windows Server
+  - Tips for Windows Active Directory
   - Tips for Linux Server
   - Tips for Proxmox
   - Tips for VMware

@@ -54,3 +54,7 @@
  - Solaar, for Logitech Unifying (https://pwr-solaar.github.io/Solaar/)
  - P3X OneNote (https://github.com/patrikx3/onenote)
  - MS Office 365 with Wine (https://ruados.github.io/articles/2021-05/office365-wine)
+ - Caffeine (https://launchpad.net/caffeine)
+ - net-tools (https://net-tools.sourceforge.io/)
+ - htop (https://htop.dev/)
+ - wine (https://www.winehq.org/)

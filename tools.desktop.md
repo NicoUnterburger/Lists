@@ -50,6 +50,7 @@
  - Remmina (https://remmina.org/)
  - Virt-Manager, kvm (https://virt-manager.org/)
  - KDE Connect (https://kdeconnect.kde.org/)
+ - Caffeine (https://launchpad.net/caffeine=
  - GParted (https://gparted.org/)
  - Solaar, for Logitech Unifying (https://pwr-solaar.github.io/Solaar/)
  - P3X OneNote (https://github.com/patrikx3/onenote)

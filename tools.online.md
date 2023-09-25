@@ -8,7 +8,7 @@
  - MX ToolBox (https://mxtoolbox.com/)
  - SPFwizard (https://spfwizard.com/)
  - Learn & Check DMARC (https://www.learndmarc.com/)
-## actual exploits, phishing or IPs
+## actual exploits, phishing or other Red-Team-Stuff
  - OpenPhish (https://openphish.com/)
  - ExploitDB (https://www.exploit-db.com/)
 ## Cookies and Tokens

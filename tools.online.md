@@ -4,14 +4,17 @@ List of Online-Tools I use during my day job or homelab nights
 ## not IT relevant
  - DeepL Translator (https://www.deepl.com/translator)
 ## DNS & Mailserver
+ - HaveIbeenPwned (https://haveibeenpwned.com/)
  - NAST Predelegation Check (https://nast.denic.de/)
  - Microsoft Mail-Header Analyzer (https://mha.azurewebsites.net/)
+ - o365 ATP link extractor (https://www.o365atp.com/)
  - MX ToolBox (https://mxtoolbox.com/)
  - SPFwizard (https://spfwizard.com/)
  - Learn & Check DMARC (https://www.learndmarc.com/)
-## actual exploits, phishing or other Red-Team-Stuff
+## exploits, phishing, malware
  - OpenPhish (https://openphish.com/)
  - ExploitDB (https://www.exploit-db.com/)
+ - VirusTotal (https://www.virustotal.com/gui/home/upload)
 ## Cookies and Tokens
  - CyberChef (https://gchq.github.io/CyberChef/)
  - JSON Web Token (JWT) (https://jwt.io/)

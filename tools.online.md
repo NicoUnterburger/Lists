@@ -15,6 +15,9 @@ List of Online-Tools I use during my day job or homelab nights
 ## Cookies and Tokens
  - CyberChef (https://gchq.github.io/CyberChef/)
  - JSON Web Token (JWT) (https://jwt.io/)
+## Development & Designing
+ - FormularChef (https://www.formular-chef.de/index.cgi?seite=start)
+ - Lorem ipsum Generator (https://www.loremipsum.de/)
 ## other 
  - MacVendors (https://macvendors.com/)
  - draw.io, also an Desktop-App (https://app.diagrams.net/)

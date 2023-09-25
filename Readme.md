@@ -1,5 +1,6 @@
 # Lists 
-Collection of random Lists:
+collection of things needed when a device dies or i lose my mind
+
 - URL Lists
   - Tips for Windows Clients ([links.tips.WinClients.md](./links.tips.WinClients.md))
 - Software/Tool Lists

@@ -10,6 +10,7 @@ collection of things needed when a device dies or i lose my mind
   - Linux Server ([links.linuxServer.md](./links.linuxServer.md))
   - Proxmox ([links.proxmox.md](./links.proxmox.md))
   - VMware ([links.vmware.md](./links.vmware.md))
+  - other ([links.other.md](./links.other.md))
 - Software, tools and apps
   - Online ([tools.online.md](./tools.online.md))
   - Desktop ([tools.desktop.md](./tools.desktop.md))

@@ -10,8 +10,8 @@ collection of things needed when a device dies or i lose my mind
   - Proxmox ([links.proxmox.md](./links.proxmox.md))
   - VMware ([links.vmware.md](./links.vmware.md))
 - Software, tools and apps
-  - Online Tools ([tools.online.md](./tools.online.md))
-  - Desktop Tools ([tools.desktop.md](./tools.desktop.md))
-  - Mobile Tools ([tools.mobile.md](./tools.mobile.md))
+  - Online ([tools.online.md](./tools.online.md))
+  - Desktop ([tools.desktop.md](./tools.desktop.md))
+  - Mobile ([tools.mobile.md](./tools.mobile.md))
 - IP bloatware, ad, virus lists
 - etc.

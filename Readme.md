@@ -1,9 +1,9 @@
 # Lists 
 Collection of random Lists:
 - URL Lists
-  - Tips for Windows Clients (client.windows.md)
+  - Tips for Windows Clients ([client.windows.md](./client.windows.md))
 - Software/Tool Lists
-  - Online Tools (https://github.com/NicoUnterburger/Lists/blob/main/tools.online.md)
-  - Desktop Tools (https://github.com/NicoUnterburger/Lists/blob/main/tools.desktop.md)
+  - Online Tools ([tools.online.md](./tools.online.md))
+  - Desktop Tools ([tools.desktop.md](./tools.desktop.md))
 - IP Lists
 - etc.

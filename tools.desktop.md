@@ -1,19 +1,6 @@
-# List of tools I use during my day job or homelab nights
+# List of Desktop-Tools I use during my day job or homelab nights
 
-## Online Tools
-### Mail
- - Microsoft Mail-Header Analyzer (https://mha.azurewebsites.net/)
- - MX ToolBox (https://mxtoolbox.com/)
-### actual exploits, phishing or IPs
- - OpenPhish (https://openphish.com/)
- - ExploitDB (https://www.exploit-db.com/)
-### Cookies and Tokens
- - CyberChef (https://gchq.github.io/CyberChef/)
- - JSON Web Token (JWT) (https://jwt.io/)
-### other 
- - draw.io, also an Desktop-App (https://app.diagrams.net/)
-## Offline Tools 
-### Cross Platform Tools
+## Cross Platform Tools
  - Visual Studio Code (https://code.visualstudio.com/)
  - Obsidian.md (https://obsidian.md/)
  - KeePassXC (https://keepassxc.org/)
@@ -31,7 +18,8 @@
  - OWASP ZAP (https://www.zaproxy.org/)
  - Wireshark (https://www.wireshark.org/)
  - VLC Media Player (https://www.videolan.org/vlc/index.de.html)
-### Windows Tools
+
+## Windows Tools
  - Windows Terminal (https://github.com/microsoft/terminal)
  - Notepad++ (https://notepad-plus-plus.org/)
  - PDF24 (https://www.pdf24.org/de/)
@@ -53,7 +41,8 @@
  - 7-Zip (https://7-zip.de/index.html)
  - Visual Studio (https://visualstudio.microsoft.com/de/)
  - Windows Admin Center, WAC (https://www.microsoft.com/de-de/windows-server/windows-admin-center)
-### Linux Tools 
+
+## Linux Tools 
  - Hyper Terminal (https://hyper.is/)
  - Guake Terminal (https://github.com/Guake/guake)
  - Thunderbird (https://www.thunderbird.net/de/)

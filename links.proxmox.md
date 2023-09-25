@@ -11,7 +11,11 @@ URLs of all relevant stuff for Proxmox as Hypervisor
  - https://blog.unixa.de/proxmox-backup-server/
 
 ## Proxmox on Hetzner with VM-bases-Firewall
+ - https://community.hetzner.com/tutorials/install-and-configure-proxmox_ve/de
  - https://dominicpratt.de/hetzner-proxmox-opnsense/
+ - https://administrator.de/forum/zuweisen-der-haupt-ip-vom-dedicated-hetzner-server-der-pfsense-vm-655068.html
+ - https://forum.netgate.com/topic/58492/multiple-wan-esxi-5-1-bei-hetzner-pfsense-2-03-nicht-mehr-erreichbar/8
+ - https://administrator.de/forum/oeffentliche-ip-adresse-dem-wan-interface-einer-firewall-vm-zuweisen-276295.html
 
 ## PCI(e) Passthrough
  - https://www.reddit.com/r/Proxmox/comments/lcnn5w/proxmox_pcie_passthrough_in_2_minutes/

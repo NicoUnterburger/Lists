@@ -122,3 +122,6 @@ some other bookmarks that don't fit into the other categories but might be neede
 ## Fonts
  - https://www.fontspace.com/
  - https://www.fontsquirrel.com/
+
+## Visual Studio Code 
+ - Fix 100% CPU (https://www.youtube.com/watch?v=36Hm1DEl82M)

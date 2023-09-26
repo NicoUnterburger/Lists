@@ -22,6 +22,7 @@ news sites or personal blogs that I visit daily or from time to time
  - BleepingComputer (https://www.bleepingcomputer.com/)
  - Windows Pro (https://www.windowspro.de/)
  - Dennis Schröder (https://schroederdennis.de/)
+ - Borns IT- und Windows-Blog (https://www.borncity.com/blog/)
 
 ## other
  - EveryDayCarry (https://everydaycarry.com/)

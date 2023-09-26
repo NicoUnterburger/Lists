@@ -29,22 +29,6 @@ some other bookmarks that don't fit into the other categories but might be neede
  - EveryDayCarry (https://everydaycarry.com/)
 
 ## VMware Hypervisor
- - https://esxi-patches.v-front.de/
- - https://www.virten.net/vmware/esxi-release-build-number-history/
- - https://derflounder.wordpress.com/2018/05/15/upgrading-from-esxi-6-5-to-esxi-6-7-via-ssh-and-esxcli/
- - https://securityaffairs.co/wordpress/114124/malware/ransomware-attack-vmware-esxi.html
- - https://www.vmware.com/security/advisories/VMSA-2022-0004.html
- - https://www.vmware.com/security/advisories/VMSA-2021-0025.html
- - https://kb.vmware.com/s/article/83829
-
-# Veeam
- - https://www.oliver-fischer-it.de/reverse-incremental-backup/
- - https://community.spiceworks.com/topic/359213-veeam-backup-suggestions
- - https://www.tdinsight.at/wp-content/uploads/2021/03/Tipps-aus-der-Praxis.pdf
- - https://helpcenter.veeam.com/docs/backup/vsphere/gfs_retention_policy.html?ver=110
- - https://forums.veeam.com/tape-f29/diffrence-between-backup-to-tape-and-file-to-tape-t26306.html
- - https://www.veeam.com/blog/de/inkrementelles-oder-vollstandiges-backup-wahl-des-richtigen-backup-modus.html
- - https://helpcenter.veeam.com/docs/backup/vsphere/wan_acceleration.html?ver=110
 
 ## Own- & Next-Cloud
  - Nextcloud vs ownCloud (https://civihosting.com/blog/nextcloud-vs-owncloud/)
@@ -73,44 +57,14 @@ some other bookmarks that don't fit into the other categories but might be neede
  - https://www.root86.com/topic/8589-ssdt-wird-nicht-genutzt/
  - https://github.com/chris1111/TP-LINK-WIFI-Network-macOS
 
-## Raspberry Pi 
+## Raspberry Pi ClusterHat
  - https://medium.com/@dhuck/the-missing-clusterhat-tutorial-45ad2241d738
- - https://tutorials-raspberrypi.de/tipps-tricks-faq-zum-offiziellen-7-raspberry-pi-touchscreen/
- - http://www.linux-community.de/Internal/Artikel/Print-Artikel/LinuxUser/2017/05/Netzwerkfaehig/(article_body_offset)/2
- - http://129.187.206.160/skripten/hardware/RasPi/RasPi_GPIO_int.html
- - https://tutorials-raspberrypi.de/raspberry-pi-mcp3008-analoge-signale-auslesen/
- - https://www.datenreise.de/raspberry-pi-stabiler-24-7-dauerbetrieb/
-
-## RFID Mifare
- - https://www.mpsys.de/wordpress/chipman-rfid/
- - https://www.hidglobal.com/sites/default/files/resource_files/5321-903_b.4_omnikey_contactless_developer_guide_en.pdf
- - https://www.kali.org/tools/libfreefare/
- - https://security.stackexchange.com/questions/158167/mifare-desfire-ev1-cloning
- - https://security.stackexchange.com/questions/104781/do-readers-for-the-mifare-desfire-ev1-smartcard-really-need-to-know-the-cards
- - https://www.ebay.de/itm/172911985741
- - https://proxmark.com/proxmark-3-hardware/proxmark-3
- - https://kopfkrieg.org/2014/07/24/rfid-dump-clone-profit/
-
-## Monitoring
- - Zabbix Arcserve (https://share.zabbix.com/cat-app/backup/arcserve-udp-vm-backup-jobs)
- - Grafana Notifications (https://grafana.com/docs/grafana/latest/alerting/notifications/)
- - Zabbix Cisco WLC (https://share.zabbix.com/network_devices/cisco/cisco-wlc-discovery)
- - Zabbix SMART (https://share.zabbix.com/storage-devices/smartmontools/zabbix-smartmontools)
- - Zabbix Fujitsu Raid (https://github.com/Mek101/Fujitsu-RAID-Zabbix-SNMPv2/blob/master/Template%20Fujitsu%20RAID%20SNMPv2.xml)
- - Graylog SIEM installieren (https://www.linux-magazin.de/ausgaben/2018/11/siem/3/)
 
 ## OpenWRT on Meraki MR18 AccessPoint
  - https://openwrt.org/toh/meraki/mr18
  - https://forum.openwrt.org/t/new-method-for-root-shell-when-flashing-meraki-mr18/72258
  - https://forum.openwrt.org/t/meraki-mr18-method-c-problem/50550
  - https://github.com/riptidewave93/Openwrt-MR18/releases
-
-# UniFi Protect Video exporter
- - https://www.reddit.com/r/Ubiquiti/comments/i2fh99/unifi_protect_video_extractor/
- - https://github.com/petergeneric/unifi-protect-remux/releases
- - https://github.com/unifi-toolbox/unifi-protect-video-downloader
- - https://pypi.org/project/unifi-cam-proxy/
- - https://github.com/unifi-toolbox/unifi-protect-video-downloader
 
 ## Graphic Templates and Stockphotos
  - https://freebiesbug.com/
@@ -122,6 +76,3 @@ some other bookmarks that don't fit into the other categories but might be neede
 ## Fonts
  - https://www.fontspace.com/
  - https://www.fontsquirrel.com/
-
-## Visual Studio Code 
- - Fix 100% CPU (https://www.youtube.com/watch?v=36Hm1DEl82M)

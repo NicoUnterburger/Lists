@@ -10,7 +10,6 @@ URLs of all relevant stuff for Cisco Products (Switches, ASA, AccessPoints, WLC,
  - MTU and 10Gbe (https://community.cisco.com/t5/switching/do-i-need-to-change-mtu-from-1500-to-9000-on-my-10gb-switch/td-p/4157981)
  - HSRP konfigurieren (https://networklessons.com/cisco/ccie-routing-switching/hsrp-hot-standby-routing-protocol)
  - HSRP konfigurieren (https://www.youtube.com/watch?v=ezYo0vZ2jFo&ab_channel=TomWechsler)
- - Lastverteilung mit HSRP (https://www.cisco.com/c/de_de/support/docs/ip/hot-standby-router-protocol-hsrp/13781-7.html)
  - VRRP konfigurieren (https://www.mustbegeek.com/configure-vrrp-in-cisco-ios-router)
  - Spanning Tree in the campus (https://networkdirection.net/articles/routingandswitching/spanningtreeandvlansinthecampus/)
  - RSTP konfigurieren (https://www.youtube.com/watch?v=3riRFHxKRAc&ab_channel=TomWechsler)

@@ -3,8 +3,19 @@ collection of things needed when a device dies or i lose my mind
 
 - Software, tools and apps
   - Online ([tools.online.md](./tools.online.md))
+    - not IT relevant ([tools.online.md](./tools.online.md#not-it-relevant))
+    - DNS & Mail ([tools.online.md](./tools.online.md#dns--mailserver))
+    - exploits, phishing, malware ([tools.online.md](./tools.online.md#exploits-phishing-malware))
+    - Cookies and Tokens ([tools.online.md](./tools.online.md#cookies-and-tokens))
+    - Development & Design ([tools.online.md](./tools.online.md#development--designing))
+    - other ([tools.online.md](./tools.online.md#other))
   - Desktop ([tools.desktop.md](./tools.desktop.md))
+    - Cross Platform Tools ([tools.desktop.md](./tools.desktop.md#cross-platform-tools))
+    - Windows Tools ([tools.desktop.md](./tools.desktop.md#windows-tools)
+    - Linux Tools ([tools.desktop.md](./tools.desktop.md#linux-tools))
   - Mobile ([tools.mobile.md](./tools.mobile.md))
+    - Apple iOS ([tools.mobile.md](./tools.mobile.md#iphone--ipad))
+    - Google Android ([tools.mobile.md](./tools.mobile.md#android))
 - URLs, tutorials, tips and more
   - News ([links.news.md](./links.news.md))
   - Windows ([links.windows.md](./links.windows.md))

@@ -26,7 +26,6 @@ collection of things needed when a device dies or i lose my mind
       - BGinfo ([links.windows.md](./links.windows.md#bginfo))
     - Windows Active Directory ([links.windows.md](./links.windows.md#active-directory))
       - Tools & public code ([links.windows.md](./links.windows.md#tools-and-public-scripts))
-      - AD migration using ADMT ([links.windows.md](./links.windows.md#active-directory-migration-using-admt))
       - Kerberos & Security ([links.windows.md](./links.windows.md#kerberos-and-security))
   - Microsoft Office365 ([links.ms365.md](./links.ms365.md))
     - User Administration ([links.ms365.md](./links.ms365.md#user-administations))
@@ -43,11 +42,13 @@ collection of things needed when a device dies or i lose my mind
       - Proxmox on Hetzner with VM-FW ([links.linux.md](./links.linux.md#proxmox-on-hetzner-with-vm-bases-firewall))
       - PCIe Passthrough ([links.linux.md](./links.linux.md#pcie-passthrough))
       - MacOS on Proxmox ([links.linux.md](./links.linux.md#macos-on-proxmox))
-    - Mailserver
-    - Run a Server at Home without public IPv4
+    - Mailserver ([links.linux.md](./links.linux.md#mailserver))
+    - Run a Server at Home without public IPv4 ([links.linux.md](./links.linux.md#run-a-server-at-home-without-public-ipv4))
   - Cisco Products ([links.cisco.md](./links.cisco.md))
     - Switches ([links.cisco.md](./links.cisco.md#switches))
-    - WLC  ([links.cisco.md](./links.cisco.md#wlc))
+    - WLC ([links.cisco.md](./links.cisco.md#wlc))
+    - ASA & AnyConnect ([links.cisco.md](./links.cisco.md#asa--anyconnect))
+    - Meraki ([links.cisco.md](./links.cisco.md#meraki))
   - other ([links.other.md](./links.other.md))
     - News  ([links.other.md](./links.other.md#news-sites))
       - Regional News ([links.other.md](./links.other.md#regional-news))
@@ -55,10 +56,12 @@ collection of things needed when a device dies or i lose my mind
       - IT News ([links.other.md](./links.other.md#it-news))
       - other News ([links.other.md](./links.other.md#other-newssites))
     - VMware ([links.other.md](./links.other.md#vmware-hypervisor))
+    - Own- & NextCloud ([links.other.md](./links.other.md#own---next-cloud))
+    - Log4j ([links.other.md](./links.other.md#log4j))
     - Hackintosh ([links.other.md](./links.other.md#hackintosh))
     - Raspberry Pi Cluster HAT ([links.other.md](./links.other.md#raspberry-pi-clusterhat))
     - OpenWRT on Meraki MR18 AP ([links.other.md](./links.other.md#openwrt-on-meraki-mr18-accesspoint))
     - Graphic Templates/Stock Material ([links.other.md](./links.other.md#graphic-templates-and-stockphotos))
     - Fonts ([links.other.md](./links.other.md#fonts))
-- IP bloatware, ad, virus lists
+- IP bloatware, ad, virus lists (soon.)
 - etc.

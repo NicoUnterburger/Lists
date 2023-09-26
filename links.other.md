@@ -30,6 +30,26 @@ some other bookmarks that don't fit into the other categories but might be neede
 
 ## VMware Hypervisor
 
+## Own- & Next-Cloud
+ - Nextcloud vs ownCloud (https://civihosting.com/blog/nextcloud-vs-owncloud/)
+ - Migrating to a different Server (https://doc.owncloud.com/server/admin_manual/maintenance/migrating.html)
+ - Manual ownCloud Upgrade (https://doc.owncloud.org/server/10.3/admin_manual/maintenance/manual_upgrade.html)
+ - Migrating from ownCloud to NextCloud (https://help.nextcloud.com/t/migrating-from-owncloud-to-nextcloud/551)
+ - Move a Data Directory (https://doc.owncloud.com/server/10.1/administration_manual/maintenance/manually-moving-data-folders.html)
+
+## Log4j 
+ - https://www.pcs.com/fileadmin/files/PDF/Schritt_fuer_Schrittanleitung_Fix_der_Schwachstelle_in_log4j_12_21.pdf
+ - https://www.pcs.com/die-pcs/aktuelles/presse-und-news/detailansicht/_/aktuelle-information-zur-sicherheitsmeldung-des-bsi-java-log4j
+ - https://community.ui.com/questions/Mitigating-the-Java-Log4J-exploit-in-UniFi-Video-on-Debian-Ubuntu/c59621d2-3cbf-48aa-9780-76477e0b1d39
+ - https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd#vp
+ - https://download.avaya.com/css/public/documents/101079440
+ - https://kb.vmware.com/s/article/87081?lang=en_US
+ - https://grafana.com/blog/2021/12/14/grafana-labs-core-products-not-impacted-by-log4j-cve-2021-44228-and-related-vulnerabilities/
+ - https://blog.zabbix.com/zabbix-not-affected-by-the-log4j-exploit/17873/
+ - https://github.com/fox-it/log4j-finder/blob/main/screenshot.png
+ - https://www.blumira.com/analysis-log4shell-local-trigger/
+ - https://www.arcserve.com/de/insights/critical-apache-log4j-vulnerability-found-in-logging-framework/
+
 ## Hackintosh 
  - https://www.hackintosh-forum.de/forum/thread/27926-dell-precision-t3500-geht-das/
  - https://github.com/CloverHackyColor/CloverBootloader/releases

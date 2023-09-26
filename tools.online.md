@@ -12,6 +12,7 @@ List of Online-Tools I use during my day job or homelab nights
  - SPFwizard (https://spfwizard.com/)
  - Learn & Check DMARC (https://www.learndmarc.com/)
 ## exploits, phishing, malware
+ - Shodan.io, open Services (https://shodan.io/)
  - OpenPhish (https://openphish.com/)
  - ExploitDB (https://www.exploit-db.com/)
  - VirusTotal (https://www.virustotal.com/gui/home/upload)

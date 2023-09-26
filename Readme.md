@@ -3,9 +3,9 @@ collection of things needed when a device dies or i lose my mind
 
 - URLs, tutorials, tips and more
   - News ([links.news.md](./links.news.md))
-  - Windows Clients ([links.winClients.md](./links.winClients.md))
-  - Windows Server ([links.winServer.md](./links.winServer.md))
-  - Windows Active Directory ([links.activeDirectory.md](./links.activeDirectory.md))
+  - Windows Clients ([links.windows.md](./links.windows.md#client-administration))
+  - Windows Server ([links.windows.md](./links.windows.md#server-administration))
+  - Windows Active Directory ([links.windows.md](./links.windows.md#active-directory))
   - Microsoft Office365 ([links.ms365.md](./links.ms365.md))
   - Linux Server ([links.linuxServer.md](./links.linuxServer.md))
   - Proxmox ([links.proxmox.md](./links.proxmox.md))

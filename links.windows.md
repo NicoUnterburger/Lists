@@ -1,17 +1,17 @@
 # links.winServer.md
 URLs of all relevant stuff for Windows Server and Clients
 
-## Server Administration
-### GPO relevant
- - BGInfo for all Users at Startup (https://lerndoku.com/bginfo-beim-start-fuer-alle-user-ausfuehren/)
-
 
 ## Client Administration
-### Administration
  - Enable SSH-Server (https://learn.microsoft.com/de-de/windows-server/administration/openssh/openssh_install_firstuse)
 
-### Troubleshooting
+### Client Troubleshooting
  - Clear MS Teams Cache (https://blog.valeconsulting.co.uk/2018/09/28/clear-the-microsoft-teams-client-cache/)
+
+
+## Server Administration
+### BGInfo
+ - BGInfo for all Users at Startup (https://lerndoku.com/bginfo-beim-start-fuer-alle-user-ausfuehren/)
 
 
 ## Active Directory

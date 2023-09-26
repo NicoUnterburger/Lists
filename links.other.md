@@ -1,6 +1,8 @@
 # links.other.md
 some other bookmarks that don't fit into the other categories but might be needed someday
 
+## VMware Hypervisor
+
 ## Hackintosh 
  - https://www.hackintosh-forum.de/forum/thread/27926-dell-precision-t3500-geht-das/
  - https://github.com/CloverHackyColor/CloverBootloader/releases

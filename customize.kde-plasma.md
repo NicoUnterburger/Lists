@@ -1,5 +1,6 @@
 # customize.kde-plasma.md
 
+## Public KDE Themes
 | Type          | Name   | Link
 | ------------- | ------------- | ------------- |
 | Global Design | Breeze Dark | standard KDE |
@@ -11,4 +12,12 @@
 | Cursor | Breeze | standard KDE |
 | Plasma Splash Screen | QuarksSplashDarkMaterial | https://www.pling.com/p/1401872 |
 | SDDM Login Theme | Andromeda |  https://github.com/EliverLara/Andromeda-kde/ |
-| Wallpaper | Kali Red Sticker | https://www.deviantart.com/turrkuaz/art/Kali-red-sticker-954259960 |
+
+## Widgets
+| Name          | Description   | Link
+| ------------- | ------------- | ------------- |
+| CatWalk       | shows CPU usage by how fast a cat runs | https://store.kde.org/p/2055225/ |
+| Network Bandwith Monitor | shows usage of Network NIC | https://www.pling.com/p/1962359 |
+
+## Wallpaper
+https://www.deviantart.com/turrkuaz/art/Kali-red-sticker-954259960

@@ -82,3 +82,4 @@ some other bookmarks that don't fit into the other categories but might be neede
  - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
  - https://everhour.com/blog/how-to-host-website-on-github/
  - https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository
+ - https://shields.io/badges/static-badge

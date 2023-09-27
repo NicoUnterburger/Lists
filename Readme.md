@@ -1,7 +1,7 @@
-# Lists 
+# Lists
 collection of things needed when a device dies or i lose my mind
 
-- Software, tools and apps
+## Software, tools and apps
   - Online ([tools.online.md](./tools.online.md))
     - not IT relevant ([tools.online.md](./tools.online.md#not-it-relevant))
     - DNS & Mail ([tools.online.md](./tools.online.md#dns--mailserver))
@@ -16,7 +16,8 @@ collection of things needed when a device dies or i lose my mind
   - Mobile ([tools.mobile.md](./tools.mobile.md))
     - Apple iOS ([tools.mobile.md](./tools.mobile.md#iphone--ipad))
     - Google Android ([tools.mobile.md](./tools.mobile.md#android))
-- URLs, tutorials, tips and more
+      
+## URLs, tutorials, tips and more
   - News ([links.news.md](./links.news.md))
   - Windows ([links.windows.md](./links.windows.md))
     - Windows Clients ([links.windows.md](./links.windows.md#client-administration))

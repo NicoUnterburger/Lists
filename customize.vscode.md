@@ -17,3 +17,4 @@ designs and extensions I use for Visual Studio Code to increase the look and my 
 | Pylance | ms-python.vscode-pylance | Extension for Python Development |
 | Python | ms-python.python | Extension for Python Development |
 | Rainbow CSV | mechatroner.rainbow-csv | Extension for CSV Highliting |
+| GitLens | eamodio.gitlens | Supercharge Git within VS Code (only use free variant) |

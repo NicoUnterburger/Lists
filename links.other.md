@@ -57,14 +57,14 @@ some other bookmarks that don't fit into the other categories but might be neede
  - https://www.root86.com/topic/8589-ssdt-wird-nicht-genutzt/
  - https://github.com/chris1111/TP-LINK-WIFI-Network-macOS
 
-## Raspberry Pi ClusterHat
- - https://medium.com/@dhuck/the-missing-clusterhat-tutorial-45ad2241d738
+## Raspberry Pi 
+ - The missing ClusterHAT tutorial (https://medium.com/@dhuck/the-missing-clusterhat-tutorial-45ad2241d738)
 
 ## OpenWRT on Meraki MR18 AccessPoint
- - https://openwrt.org/toh/meraki/mr18
- - https://forum.openwrt.org/t/new-method-for-root-shell-when-flashing-meraki-mr18/72258
- - https://forum.openwrt.org/t/meraki-mr18-method-c-problem/50550
- - https://github.com/riptidewave93/Openwrt-MR18/releases
+ - MR18 OpenWRT Overview (https://openwrt.org/toh/meraki/mr18)
+ - New flash method (https://forum.openwrt.org/t/new-method-for-root-shell-when-flashing-meraki-mr18/72258)
+ - Problem with Method C (https://forum.openwrt.org/t/meraki-mr18-method-c-problem/50550)
+ - OpenWRT on Github (https://github.com/riptidewave93/Openwrt-MR18/releases)
 
 ## Graphic Templates and Stockphotos
  - https://freebiesbug.com/
@@ -79,7 +79,8 @@ some other bookmarks that don't fit into the other categories but might be neede
 
 
 ## Github 
- - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
- - https://everhour.com/blog/how-to-host-website-on-github/
- - https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository
- - https://shields.io/badges/static-badge
+ - How-to CodeBlocks (https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
+ - How-to host a Site on Github (https://everhour.com/blog/how-to-host-website-on-github/)
+ - Add License to Repo (https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
+ - Fancy Badges for Readme-Files (https://shields.io/badges/static-badge)
+ - Publish Site with Github Actions(https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)

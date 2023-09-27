@@ -64,5 +64,6 @@ collection of things needed when a device dies or i lose my mind
     - OpenWRT on Meraki MR18 AP ([links.other.md](./links.other.md#openwrt-on-meraki-mr18-accesspoint))
     - Graphic Templates/Stock Material ([links.other.md](./links.other.md#graphic-templates-and-stockphotos))
     - Fonts ([links.other.md](./links.other.md#fonts))
+    - Github ([links.other.md](./links.other.md#github))
 - IP bloatware, ad, virus lists (soon.)
 - etc.

@@ -60,7 +60,7 @@ some other bookmarks that don't fit into the other categories but might be neede
 ## Raspberry Pi 
  - The missing ClusterHAT tutorial (https://medium.com/@dhuck/the-missing-clusterhat-tutorial-45ad2241d738)
 
-## OpenWRT on Meraki MR18 AccessPoint
+## OpenWRT
  - MR18 OpenWRT Overview (https://openwrt.org/toh/meraki/mr18)
  - New flash method (https://forum.openwrt.org/t/new-method-for-root-shell-when-flashing-meraki-mr18/72258)
  - Problem with Method C (https://forum.openwrt.org/t/meraki-mr18-method-c-problem/50550)

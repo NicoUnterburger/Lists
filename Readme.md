@@ -28,12 +28,14 @@ collection of things needed when a device dies or i lose my mind
       - Tools & public code ([links.windows.md](./links.windows.md#tools-and-public-scripts))
       - AD migration using ADMT ([links.windows.md](./links.windows.md#active-directory-migration-using-admt))
       - Kerberos & Security ([links.windows.md](./links.windows.md#kerberos-and-security))
+
   - Microsoft Office365 ([links.ms365.md](./links.ms365.md))
     - User Administration ([links.ms365.md](./links.ms365.md#user-administations))
     - Device Administration ([links.ms365.md](./links.ms365.md#device-administration))
     - CrossTenantMigration  ([links.ms365.md](./links.ms365.md#cross-tenant-migration))
     - EXO, Exchange Online ([links.ms365.md](./links.ms365.md#exo-exchange-online))
     - other ([links.ms365.md](./links.ms365.md#other))
+
   - Linux Server ([links.linux.md](./links.linux.md))
     - System Administration ([links.linux.md](./links.linux.md#system-administration))
     - Proxmox ([links.linux.md](./links.linux.md#proxmox))
@@ -45,11 +47,13 @@ collection of things needed when a device dies or i lose my mind
       - MacOS on Proxmox ([links.linux.md](./links.linux.md#macos-on-proxmox))
     - Mailserver ([links.linux.md](./links.linux.md#mailserver))
     - Run a Server at Home without public IPv4 ([links.linux.md](./links.linux.md#run-a-server-at-home-without-public-ipv4))
+  
   - Cisco Products ([links.cisco.md](./links.cisco.md))
     - Switches ([links.cisco.md](./links.cisco.md#switches))
     - WLC ([links.cisco.md](./links.cisco.md#wlc))
     - ASA & AnyConnect ([links.cisco.md](./links.cisco.md#asa--anyconnect))
     - Meraki ([links.cisco.md](./links.cisco.md#meraki))
+  
   - other ([links.other.md](./links.other.md))
     - News  ([links.other.md](./links.other.md#news-sites))
       - Regional News ([links.other.md](./links.other.md#regional-news))
@@ -65,5 +69,7 @@ collection of things needed when a device dies or i lose my mind
     - Graphic Templates/Stock Material ([links.other.md](./links.other.md#graphic-templates-and-stockphotos))
     - Fonts ([links.other.md](./links.other.md#fonts))
     - Github ([links.other.md](./links.other.md#github))
+  
 - IP bloatware, ad, virus lists (soon.)
+  
 - etc.

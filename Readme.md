@@ -18,7 +18,6 @@ collection of things needed when a device dies or i lose my mind
     - Google Android ([tools.mobile.md](./tools.mobile.md#android))
       
 ## URLs, tutorials, tips and more
-  - News ([links.news.md](./links.news.md))
   - Windows ([links.windows.md](./links.windows.md))
     - Windows Clients ([links.windows.md](./links.windows.md#client-administration))
       - Administration ([links.windows.md](./links.windows.md#client-administration))

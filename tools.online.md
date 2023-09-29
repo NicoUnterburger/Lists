@@ -6,22 +6,26 @@ List of Online-Tools I use during my day job or homelab nights
 ## DNS & Mailserver
  - HaveIbeenPwned (https://haveibeenpwned.com/)
  - NAST Predelegation Check (https://nast.denic.de/)
- - Microsoft Mail-Header Analyzer (https://mha.azurewebsites.net/)
+ - Mail Header Analyzer (https://mha.azurewebsites.net/)
  - o365 ATP link extractor (https://www.o365atp.com/)
  - MX ToolBox (https://mxtoolbox.com/)
  - SPFwizard (https://spfwizard.com/)
  - Learn & Check DMARC (https://www.learndmarc.com/)
 ## exploits, phishing, malware
  - Shodan.io, open Services (https://shodan.io/)
- - OpenPhish (https://openphish.com/)
+ - OpenPhish (https://opMicrosoftenphish.com/)
+ - HackTheBox (https://app.hackthebox.com/home)
  - ExploitDB (https://www.exploit-db.com/)
  - VirusTotal (https://www.virustotal.com/gui/home/upload)
+ - The Malware Museum, also includes docs and emulators (https://archive.org/details/malwaremuseum)
 ## Cookies and Tokens
  - CyberChef (https://gchq.github.io/CyberChef/)
  - JSON Web Token (JWT) (https://jwt.io/)
 ## Development & Designing
  - FormularChef (https://www.formular-chef.de/index.cgi?seite=start)
  - Lorem ipsum Generator (https://www.loremipsum.de/)
-## other 
+## other
  - MacVendors (https://macvendors.com/)
+ - sadServers (https://sadservers.com/scenarios)
+ - IPv64 - free DynDNS2 & Healthchecks, hosted in DE at Hetzner (https://ipv64.net/)
  - draw.io, also an Desktop-App (https://app.diagrams.net/)

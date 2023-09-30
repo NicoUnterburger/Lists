@@ -24,6 +24,7 @@ some other bookmarks that don't fit into the other categories but might be neede
  - Windows Pro (https://www.windowspro.de/)
  - Dennis Schröder (https://schroederdennis.de/)
  - Borns IT- und Windows-Blog (https://www.borncity.com/blog/)
+ - Martin Leyrer (https://martin.leyrer.priv.at/)
 
 ### other newssites
  - EveryDayCarry (https://everydaycarry.com/)

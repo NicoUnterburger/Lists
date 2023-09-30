@@ -77,10 +77,12 @@ some other bookmarks that don't fit into the other categories but might be neede
  - https://www.fontspace.com/
  - https://www.fontsquirrel.com/
 
-
 ## Github 
  - How-to CodeBlocks (https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
  - How-to host a Site on Github (https://everhour.com/blog/how-to-host-website-on-github/)
  - Add License to Repo (https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
  - Fancy Badges for Readme-Files (https://shields.io/badges/static-badge)
+ - Badges4 (https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md)
+ - 150 github Badges (https://dev.to/envoy_/150-badges-for-github-pnk)
+ - Convert PNG to base64 which can use in shields.io (https://b64.io/)
  - Publish Site with Github Actions(https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)

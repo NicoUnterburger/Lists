@@ -71,9 +71,9 @@ collection of things needed when a device dies or i lose my mind
   - Github ([links.other.md](./links.other.md#github))
 
 ### Software customizing and extensions
-  - [Visual Studio Code](./customize.vscode.md)
-  - [KDE Plasma](./customize.kde-plasma.md)
-  - [Google Chrome](./customize.google-chrome.md)
+  - Visual Studio Code [customize.vscode.md](./customize.vscode.md)
+  - KDE Plasma [customize.kde-plasma.md](./customize.kde-plasma.md)
+  - Google Chrome [customize.google-chrome.md](./customize.google-chrome.md)
     
 ### IP bloatware, ad, virus lists (soon.)
 soon

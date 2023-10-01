@@ -1,4 +1,4 @@
-# vscode.customize.md 
+# customize.vscode.md 
 designs and extensions I use for Visual Studio Code to increase the look and my productivity
 
 ## Theme & Colors

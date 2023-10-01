@@ -69,6 +69,11 @@ collection of things needed when a device dies or i lose my mind
   - Graphic Templates/Stock Material ([links.other.md](./links.other.md#graphic-templates-and-stockphotos))
   - Fonts ([links.other.md](./links.other.md#fonts))
   - Github ([links.other.md](./links.other.md#github))
-  
+
+### Software customizing and extensions
+  - [Visual Studio Code](./customize.vscode.md)
+  - [KDE Plasma](./customize.kde-plasma.md)
+  - [Google Chrome](./customize.google-chrome.md)
+    
 ### IP bloatware, ad, virus lists (soon.)
 soon

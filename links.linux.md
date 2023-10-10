@@ -34,3 +34,6 @@ URLs of all relevant stuff for Linux Server
 
 ## Run a Server at Home without public IPv4
  - https://blog.wirelessmoves.com/2019/06/how-to-run-a-server-at-home-without-an-ipv4-address.html
+
+## Universal FCC-Unlock for Quectel EM05-G
+ - https://github.com/longsleep/t14g3amd-linux#fixing-wwan-4g-modem-quectel-em05-g#fixing-wwan-4g-modem-quectel-em05-g

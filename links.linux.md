@@ -1,4 +1,4 @@
-# links.linuxServer.md
+# links.linux.md
 URLs of all relevant stuff for Linux Server
 
 ## System-Administration
@@ -28,6 +28,8 @@ URLs of all relevant stuff for Linux Server
  - https://www.nicksherlock.com/2019/10/installing-macos-catalina-10-15-on-proxmox-6/
  - https://www.nicksherlock.com/2020/04/installing-macos-catalina-on-proxmox-with-opencore/
 
+## VMware 
+ - ESXi read out SMART (https://kb.vmware.com/s/article/2040405)
 ## Mailserver
  - https://thomas-leister.de/mailserver-debian-buster/
  - https://docs.mailcow.email/prerequisite/prerequisite-system/

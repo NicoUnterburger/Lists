@@ -29,7 +29,9 @@ URLs of all relevant stuff for Linux Server
  - https://www.nicksherlock.com/2020/04/installing-macos-catalina-on-proxmox-with-opencore/
 
 ## VMware 
+ - ESXi Update Tracker (https://esxi-patches.v-front.de/)
  - ESXi read out SMART (https://kb.vmware.com/s/article/2040405)
+   
 ## Mailserver
  - https://thomas-leister.de/mailserver-debian-buster/
  - https://docs.mailcow.email/prerequisite/prerequisite-system/

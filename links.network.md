@@ -5,6 +5,12 @@ URLs of all relevant stuff for Network Products (Switches, ASA, AccessPoints, WL
  - CLI CheatSheet (https://www.schotty.com/Cheatsheets/Mikrotik_RouterOS_Cheatsheet/)
  - Clientverbindung OpenVPN (https://administrator.de/forum/clientverbindung-openvpn-mikrotik-359367.html)
  - OpenVPN Server (https://netbits.at/wissensdatenbank/openvpn-server-mit-mikrotik/)
+ - aqui, VLAN guide (https://administrator.de/tutorial/mikrotik-vlan-konfiguration-ab-routeros-version-6-41-367186.html)
+ - Mikrotik-Forum VLAN guide (https://forum.mikrotik.com/viewtopic.php?t=143620)
+ - Policy Based Routing (https://administrator.de/forum/policy-based-routing-mit-mikrotik-750-180258.html)
+ - HA Implementation Protocols (https://ded9.com.tr/high-availability-implementation-methods-on-mikrotik/?amp=1)
+ - Diffrence between VLAN handling (https://www.reddit.com/r/mikrotik/comments/l4fmp4/difference_between_vlans_on_bridge_and_vlans_on/)
+ - MLAG (https://help.mikrotik.com/docs/display/ROS/Multi-chassis+Link+Aggregation+Group)
   
 ## Cisco
 ### Cisco Switches
@@ -46,3 +52,8 @@ URLs of all relevant stuff for Network Products (Switches, ASA, AccessPoints, WL
  - New flash method (https://forum.openwrt.org/t/new-method-for-root-shell-when-flashing-meraki-mr18/72258)
  - Problem with Method C (https://forum.openwrt.org/t/meraki-mr18-method-c-problem/50550)
  - OpenWRT on Github (https://github.com/riptidewave93/Openwrt-MR18/releases)
+
+## UniFi
+ - Comparion Charts (https://evanmccann.net/blog/ubiquiti/unifi-comparison-charts#fnr1=)
+ - pcpy comments on udm (https://old.reddit.com/r/Ubiquiti/comments/r7jtt4/udmpro_and_configproperties/hn50bab/)
+ - Official UI Forum (https://community.ui.com/timeline)

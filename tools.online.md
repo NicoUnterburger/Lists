@@ -11,6 +11,11 @@ List of Online-Tools I use during my day job or homelab nights
  - MX ToolBox (https://mxtoolbox.com/)
  - SPFwizard (https://spfwizard.com/)
  - Learn & Check DMARC (https://www.learndmarc.com/)
+## Network
+ - Ookla Speedtest (https://www.speedtest.net/de)
+ - Radar (https://radar.qrator.net/)
+ - Looking Glasses (https://www.bgp4.as/looking-glasses/)
+ - HE NET (https://bgp.he.net/)
 ## exploits, phishing, malware
  - Shodan.io, open Services (https://shodan.io/)
  - OpenPhish (https://opMicrosoftenphish.com/)
@@ -30,3 +35,4 @@ List of Online-Tools I use during my day job or homelab nights
  - IPv64 - free DynDNS2 & Healthchecks, hosted in DE at Hetzner (https://ipv64.net/)
  - draw.io, also an Desktop-App (https://app.diagrams.net/)
  - WG Config Generator (https://www.wireguardconfig.com/)
+ - Registry to Powershell converter (https://rzander.azurewebsites.net/registry-to-powershell-converter/amp/) 

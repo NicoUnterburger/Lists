@@ -9,7 +9,7 @@ URLs of all relevant stuff for Windows Server and Clients
  - Deploy Standard-Apps (https://4sysops.com/archives/default-file-associations-in-windows-10)
  - Powershell CodeSigning (https://blogs.u2u.be/u2u/post/creating-a-self-signed-code-signing-certificate-from-powershell)
  - RunOnce-Key (https://www.borncity.com/blog/2021/08/08/der-windows-runonce-registrierungsschlssel/)
- - Deploy 
+ - Registry to Powershell converter (https://rzander.azurewebsites.net/registry-to-powershell-converter/amp/) 
 
 ### Client Troubleshooting
  - Clear MS Teams Cache (https://blog.valeconsulting.co.uk/2018/09/28/clear-the-microsoft-teams-client-cache/)
@@ -19,7 +19,6 @@ URLs of all relevant stuff for Windows Server and Clients
  - Autovervollständigung defekt (http://www.office-loesung.de/ftopic550774_0_0_asc.php)
  - Enable Install-Logging (https://docs.microsoft.com/en-US/troubleshoot/windows-client/application-management/enable-windows-installer-logging)
  - Remove Sophos Tamper Protection (https://support.sophos.com/support/s/article/KB-000036125?language=en_US)
-
 
 ## Server Administration
  - BGInfo for all Users at Startup (https://lerndoku.com/bginfo-beim-start-fuer-alle-user-ausfuehren/)

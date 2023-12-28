@@ -79,6 +79,7 @@ some other bookmarks that don't fit into the other categories but might be neede
  - 150 github Badges (https://dev.to/envoy_/150-badges-for-github-pnk)
  - Convert PNG to base64 which can use in shields.io (https://b64.io/)
  - Publish Site with Github Actions(https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+ - Multiple Github Accounts (https://stackoverflow.com/questions/3860112/multiple-github-accounts-on-the-same-computer)
 
 ## Security
  - Top NMAP Commands (https://www.elektronik-kompendium.de/sites/net/2104261.htm)

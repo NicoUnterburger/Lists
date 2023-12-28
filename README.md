@@ -5,6 +5,7 @@ collection of things needed when a device dies or i lose my mind
 ### Online ([tools.online.md](./tools.online.md))
   - not IT relevant ([tools.online.md](./tools.online.md#not-it-relevant))
   - DNS & Mail ([tools.online.md](./tools.online.md#dns--mailserver))
+  - Network ([tools.online.md](./tools.online.md#network))
   - exploits, phishing, malware ([tools.online.md](./tools.online.md#exploits-phishing-malware))
   - Cookies and Tokens ([tools.online.md](./tools.online.md#cookies-and-tokens))
   - Development & Design ([tools.online.md](./tools.online.md#development--designing))
@@ -16,6 +17,8 @@ collection of things needed when a device dies or i lose my mind
 ### Mobile ([tools.mobile.md](./tools.mobile.md))
   - Apple iOS ([tools.mobile.md](./tools.mobile.md#iphone--ipad))
   - Google Android ([tools.mobile.md](./tools.mobile.md#android))
+#### another big List for OSS
+  - Awesome FOSS (https://github.com/awesome-foss/awesome-sysadmin?tab=readme-ov-file#software)
       
 ## URLs, tutorials, tips and more
 ### Windows ([links.windows.md](./links.windows.md))
@@ -40,13 +43,19 @@ collection of things needed when a device dies or i lose my mind
   - System Administration ([links.linux.md](./links.linux.md#system-administration))
   - Proxmox ([links.linux.md](./links.linux.md#proxmox))
     - Cluster ([links.linux.md](./links.linux.md#cluster))
+    - CloudInit ([links.linux.md](./links.linux.md#cloudinit))
     - Monitoring ([links.linux.md](./links.linux.md#monitoring-proxmox-hosts-and-guests))
     - Backup ([links.linux.md](./links.linux.md#backup))
     - Proxmox on Hetzner with VM-FW ([links.linux.md](./links.linux.md#proxmox-on-hetzner-with-vm-bases-firewall))
     - PCIe Passthrough ([links.linux.md](./links.linux.md#pcie-passthrough))
     - MacOS on Proxmox ([links.linux.md](./links.linux.md#macos-on-proxmox))
+    - other ([links.linux.md](./links.linux.md#other))
+  - Ansible Automation ([links.linux.md](./links.linux.md#ansible-automation))
+  - TrueNAS ([links.linux.md](./links.linux.md#truenas)
   - Mailserver ([links.linux.md](./links.linux.md#mailserver))
   - Run a Server at Home without public IPv4 ([links.linux.md](./links.linux.md#run-a-server-at-home-without-public-ipv4))
+  - Docker ([links.linux.md](links.linux.md#docker))
+  - Zabbix ([links.linux.md](./links.linux.md#zabbix))
   
 ### Network Stuff ([links.network.md](./links.network.md))
   - Mikrotik ([links.network.md](./links.network.md#mikrotik))
@@ -56,6 +65,7 @@ collection of things needed when a device dies or i lose my mind
     - VPN ([links.network.md](./links.network.md#cisco-vpn))
   - Meraki ([links.network.md](./links.network.md#meraki))
   - OpenWRT ([links.network.md](./links.network.md#openwrt))
+  - UniFi ([links.network.md](./links.network.md#unifi))
   
 ### other ([links.other.md](./links.other.md))
   - News  ([links.other.md](./links.other.md#news-sites))

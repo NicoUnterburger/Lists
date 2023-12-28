@@ -29,11 +29,6 @@ some other bookmarks that don't fit into the other categories but might be neede
 ### other newssites
  - EveryDayCarry (https://everydaycarry.com/)
 
-## MikroTik
- - CLI CheatSheet (https://www.schotty.com/Cheatsheets/Mikrotik_RouterOS_Cheatsheet/)
- - Clientverbindung OpenVPN (https://administrator.de/forum/clientverbindung-openvpn-mikrotik-359367.html)
- - OpenVPN Server (https://netbits.at/wissensdatenbank/openvpn-server-mit-mikrotik/)
-
 ## Own- & Next-Cloud
  - Nextcloud vs ownCloud (https://civihosting.com/blog/nextcloud-vs-owncloud/)
  - Migrating to a different Server (https://doc.owncloud.com/server/admin_manual/maintenance/migrating.html)
@@ -63,12 +58,6 @@ some other bookmarks that don't fit into the other categories but might be neede
 
 ## Raspberry Pi 
  - The missing ClusterHAT tutorial (https://medium.com/@dhuck/the-missing-clusterhat-tutorial-45ad2241d738)
-
-## OpenWRT
- - MR18 OpenWRT Overview (https://openwrt.org/toh/meraki/mr18)
- - New flash method (https://forum.openwrt.org/t/new-method-for-root-shell-when-flashing-meraki-mr18/72258)
- - Problem with Method C (https://forum.openwrt.org/t/meraki-mr18-method-c-problem/50550)
- - OpenWRT on Github (https://github.com/riptidewave93/Openwrt-MR18/releases)
 
 ## Graphic Templates and Stockphotos
  - https://freebiesbug.com/

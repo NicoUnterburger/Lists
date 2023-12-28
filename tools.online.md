@@ -29,3 +29,4 @@ List of Online-Tools I use during my day job or homelab nights
  - sadServers (https://sadservers.com/scenarios)
  - IPv64 - free DynDNS2 & Healthchecks, hosted in DE at Hetzner (https://ipv64.net/)
  - draw.io, also an Desktop-App (https://app.diagrams.net/)
+ - WG Config Generator (https://www.wireguardconfig.com/)

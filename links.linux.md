@@ -3,6 +3,7 @@ URLs of all relevant stuff for Linux Server
 
 ## System-Administration
  - https://bytefreaks.net/gnulinux/how-to-set-a-static-ip-address-from-the-command-line-in-gnulinux-using-ip-addr-and-ip-route
+ - https://martin.leyrer.priv.at/downloads/talks/2022/2022-05%20-%20gpn20%20-%20Besser%20leben%20mit%20SSH.pdf
 
 ## Proxmox
 ### Cluster

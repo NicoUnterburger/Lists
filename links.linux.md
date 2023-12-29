@@ -17,9 +17,6 @@ URLs of all relevant stuff for Linux Server
  - CLI commands (https://cloudinit.readthedocs.io/en/latest/reference/cli.html)
  - CloudInit with Ansible (https://ronamosa.io/docs/engineer/LAB/proxmox-cloudinit/)
 
-### Monitoring Proxmox Hosts and Guests
- - https://schroederdennis.de/tutorial-howto/proxmox-monitoring-einrichten-installieren-influxdb-grafana/
-
 ### Backup 
  - https://blog.unixa.de/proxmox-backup-server/
 
@@ -30,14 +27,13 @@ URLs of all relevant stuff for Linux Server
  - https://forum.netgate.com/topic/58492/multiple-wan-esxi-5-1-bei-hetzner-pfsense-2-03-nicht-mehr-erreichbar/8
  - https://administrator.de/forum/oeffentliche-ip-adresse-dem-wan-interface-einer-firewall-vm-zuweisen-276295.html
 
-### PCI(e) Passthrough
- - https://www.reddit.com/r/Proxmox/comments/lcnn5w/proxmox_pcie_passthrough_in_2_minutes/
-
 ### MacOS on Proxmox
  - https://www.nicksherlock.com/2019/10/installing-macos-catalina-10-15-on-proxmox-6/
  - https://www.nicksherlock.com/2020/04/installing-macos-catalina-on-proxmox-with-opencore/
 
 ### other 
+ - https://schroederdennis.de/tutorial-howto/proxmox-monitoring-einrichten-installieren-influxdb-grafana/
+ - https://www.reddit.com/r/Proxmox/comments/lcnn5w/proxmox_pcie_passthrough_in_2_minutes/
  - Subscription Plans (https://www.proxmox.com/en/proxmox-virtual-environment/pricing)
 
 ## Ansible Automation

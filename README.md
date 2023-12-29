@@ -37,6 +37,7 @@ collection of things needed when a device dies or i lose my mind
   - Device Administration ([links.ms365.md](./links.ms365.md#device-administration))
   - CrossTenantMigration  ([links.ms365.md](./links.ms365.md#cross-tenant-migration))
   - EXO, Exchange Online ([links.ms365.md](./links.ms365.md#exo-exchange-online))
+  - Intune ([links.ms365.md](./links.ms365.md#intune--endpoint-manager))
   - other ([links.ms365.md](./links.ms365.md#other))
 
 ### Linux Server ([links.linux.md](./links.linux.md))

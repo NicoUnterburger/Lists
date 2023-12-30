@@ -10,6 +10,7 @@ URLs of all relevant stuff for Linux Server
 ## Proxmox
 ### Cluster
  - https://daniel-ziegler.com/proxmox-ve/computer/netzwerk/linux/2018/04/27/Proxmox-Virtual-Environment-Clustering/
+ - https://pve.proxmox.com/pve-docs/pve-admin-guide.html#_remove_a_cluster_node
 
 ### CloudInit
  - Create own Template (https://pycvala.de/blog/proxmox/create-your-own-debian-12-cloud-init-template/)

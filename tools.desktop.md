@@ -60,3 +60,4 @@ List of Desktop-Tools I use during my day job or homelab nights
  - net-tools (https://net-tools.sourceforge.io/)
  - htop (https://htop.dev/)
  - wine (https://www.winehq.org/)
+ - Yakuake (https://apps.kde.org/de/yakuake/)

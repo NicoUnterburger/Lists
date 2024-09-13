@@ -17,6 +17,7 @@ List of Online-Tools I use during my day job or homelab nights
  - Radar (https://radar.qrator.net/)
  - Looking Glasses (https://www.bgp4.as/looking-glasses/)
  - HE NET (https://bgp.he.net/)
+ - Fritz!Box Config Encrypter (https://www.mengelke.de/Projekte/FritzBox-JSTool)
 ## exploits, phishing, malware
  - Shodan.io, open Services (https://shodan.io/)
  - OpenPhish (https://opMicrosoftenphish.com/)

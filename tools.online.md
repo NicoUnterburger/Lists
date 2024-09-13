@@ -11,6 +11,7 @@ List of Online-Tools I use during my day job or homelab nights
  - MX ToolBox (https://mxtoolbox.com/)
  - SPFwizard (https://spfwizard.com/)
  - Learn & Check DMARC (https://www.learndmarc.com/)
+ - DNS-Checker (https://dnschecker.org/)
 ## Network
  - Ookla Speedtest (https://www.speedtest.net/de)
  - Radar (https://radar.qrator.net/)
